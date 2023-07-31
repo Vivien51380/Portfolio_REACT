@@ -2,7 +2,7 @@ import './navbar.css';
 
 const Navbar = () => {
   return (
-    <section id="navbar"></section>
+    <nav><h2>navbar</h2></nav>
   )
 }
 
